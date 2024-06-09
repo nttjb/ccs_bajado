@@ -9,8 +9,9 @@
 }
 
 .mv {
-    margin-top: 10%;
+    margin-top: 5%;
     margin-bottom: 20%;
+    padding-bottom:15% ;
     transition: transform 0.3s ease; /* Smooth transition for the entire section */
 }
 
@@ -23,7 +24,7 @@
 }
 
 .mv p {
-    margin: auto;
+   margin: auto;
     text-align: center;
     color: white;
     transition: color 0.3s ease, transform 0.3s ease; /* Smooth transition for hover effects */
